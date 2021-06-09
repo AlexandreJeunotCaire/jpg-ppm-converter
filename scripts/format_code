@@ -1,0 +1,3 @@
+#!/usr/bin/env sh
+indent -linux -l100 src/*.c
+indent -linux -l100 include/*.h
